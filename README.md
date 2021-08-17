@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 poetry install             
 poetry shell               
 python manage.py runserver
+-->
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={strou73})](https://solved.ac/{strou73})
 
