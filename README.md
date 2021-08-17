@@ -21,6 +21,7 @@ python manage.py runserver
 pip install -r requirements.txt
 python manage.py runserver
 -->
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=strou73)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={strou73})](https://solved.ac/{strou73})
