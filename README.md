@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-poetry install             
-poetry shell               
-python manage.py runserver
-
-pip install -r requirements.txt
-python manage.py runserver
 -->
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=strou73)
 
-[![Solved.ac
+![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={strou73})](https://solved.ac/{strou73})
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
