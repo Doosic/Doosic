@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 poetry install             
 poetry shell               
 python manage.py runserver
+
+pip install -r requirements.txt
+python manage.py runserver
 -->
 
 [![Solved.ac
