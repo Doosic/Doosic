@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strou73)](https://solved.ac/strou73/)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doosic&show_icons=true&theme=radical)
+## MyLink
+![portfolio](https://www.notion.so/Doosic-Choi-e98b5446943447f3b980657e85661caa)
 ## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
