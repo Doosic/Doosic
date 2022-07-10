@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## MyLink
-![portfolio](https://www.notion.so/Doosic-Choi-e98b5446943447f3b980657e85661caa)
+![portfolio (https://www.notion.so/Doosic-Choi](https://www.notion.so/Doosic-Choi-e98b5446943447f3b980657e85661caa)
 ## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
