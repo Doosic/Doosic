@@ -1,4 +1,5 @@
-### Doosic GitHub
+<div align="center">
+<h1> Doosic GitHub</h1>
 
 <!--
 **Doosic/Doosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## MyLink.
-![portfolio (https://www.notion.so/Doosic-Choi](https://www.notion.so/Doosic-Choi-e98b5446943447f3b980657e85661caa)
+
+<h2>MyLink.</h2>
+portfolio: [Notion](https://www.notion.so/Doosic-Choi-e98b5446943447f3b980657e85661caa)</br>
+Blog: [doosicee.tistory.com](https://doosicee.tistory.com/)
+
 ## Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,5 +31,5 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+</div>
 
